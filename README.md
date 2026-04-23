@@ -3,6 +3,11 @@
 
 A production-grade conversational AI agent that qualifies leads for **AutoStream** (a fictional SaaS video editing platform). Built with **LangGraph**, a **provider-agnostic LLM layer** (Groq/OpenAI/Anthropic/Gemini/OpenAI-compatible), and a local **RAG pipeline**.
 
+## Demo Video
+
+- Repository file: [demo/demo-video.mp4](demo/demo-video.mp4)
+- Direct GitHub link: [Watch demo video](https://github.com/YashThosar/autostream_agent/blob/main/demo/demo-video.mp4)
+
 ---
 
 ## Features
@@ -68,10 +73,6 @@ cp .env.example .env
 ```bash
 python main.py
 ```
-
-## Demo Video
-
-- Assignment demo recording: [demo/demo-video.mp4](demo/demo-video.mp4)
 
 ### Example Session
 ```
