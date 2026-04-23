@@ -69,6 +69,10 @@ cp .env.example .env
 python main.py
 ```
 
+## Demo Video
+
+- Assignment demo recording: [demo/demo-video.mp4](demo/demo-video.mp4)
+
 ### Example Session
 ```
 🤖 Alex: Hi! I'm Alex from AutoStream. We help content creators automate their video editing...
